@@ -1,0 +1,7 @@
+C:\Users\Seher CELIK\Desktop\SqlWithCSharp\SqlWithCSharp\bin\Debug\SqlWithCSharp.exe.config
+C:\Users\Seher CELIK\Desktop\SqlWithCSharp\SqlWithCSharp\bin\Debug\SqlWithCSharp.exe
+C:\Users\Seher CELIK\Desktop\SqlWithCSharp\SqlWithCSharp\bin\Debug\SqlWithCSharp.pdb
+C:\Users\Seher CELIK\Desktop\SqlWithCSharp\SqlWithCSharp\obj\Debug\SqlWithCSharp.csproj.AssemblyReference.cache
+C:\Users\Seher CELIK\Desktop\SqlWithCSharp\SqlWithCSharp\obj\Debug\SqlWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Seher CELIK\Desktop\SqlWithCSharp\SqlWithCSharp\obj\Debug\SqlWithCSharp.exe
+C:\Users\Seher CELIK\Desktop\SqlWithCSharp\SqlWithCSharp\obj\Debug\SqlWithCSharp.pdb
