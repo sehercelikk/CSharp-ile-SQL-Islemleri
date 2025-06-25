@@ -1,6 +1,6 @@
 # ADO.NET ile Basit Console Uygulaması
 
-Bu proje, C# ile ADO.NET kullanarak SQL Server veritabanına bağlanan, temel veritabanı işlemlerini (INSERT, DELETE, SELECT, UPDATE ve JOIN) gerçekleştiren bir **konsol uygulamasıdır**.
+Bu proje,Db First yaklaşımı ve C# ile ADO.NET kullanarak SQL Server veritabanına bağlanan, temel veritabanı işlemlerini (INSERT, DELETE, SELECT, UPDATE ve JOIN) gerçekleştiren bir **konsol uygulamasıdır**.
 
 ## 🔧 Kullanılan Teknolojiler
 
